@@ -28,10 +28,8 @@ Convenient Data Handling: The encrypted output is encoded in Base64 format, maki
 5. Cross-Platform Compatibility 
 
 C# Implementation: Built using C#, my tool can be easily integrated into various applications and systems, making it a versatile choice for developers looking to enhance their software's security features. 
-![image](https://github.com/user-attachments/assets/e804356c-d657-4106-ba38-64695821e49f)
 
 
- 
 
 How It Works 
 
@@ -42,6 +40,9 @@ Input Your Passphrase: Start by entering a secure passphrase. Our tool will hash
 Encrypt Your Data: Input the text you wish to encrypt. The tool will generate a random IV, encrypt your data, and return the encrypted text in Base64 format. 
 
 Decrypt Your Data: To retrieve your original text, simply input the encrypted Base64 string. The tool will extract the IV and decrypt the data, providing you with the plaintext. 
+
+![image](https://github.com/user-attachments/assets/61280c4e-96c7-4996-b494-246958a4a844)
+
 
   Why Choose the AES Encryption Tool? 
 
