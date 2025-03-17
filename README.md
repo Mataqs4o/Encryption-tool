@@ -50,3 +50,9 @@ Simplicity: Enjoy an intuitive interface that makes encryption and decryption ac
 Flexibility: Easily integrate the tool into your existing applications or use it as a standalone solution. 
 
 Peace of Mind: With my tool, you can rest assured that your data is secure from unauthorized access 
+
+Contact Us 
+
+For more information, support, or inquiries, please reach out to me at somethingAesEncryption@gmail.com. 
+
+ Join the movement towards secure data protection with the AES Encryption Tool today! 
