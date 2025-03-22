@@ -2,33 +2,35 @@
 
   
 What is AES Encryption Tool 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Advanced Encryption Standard (AES) is a symmetric block cipher chosen by the U.S. government to protect classified information. AES is implemented in software and hardware throughout the world to encrypt sensitive data. It is essential for government computer security, cybersecurity and electronic data protection. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Features 
 
 1. Unmatched Security 
 
 AES-256 Encryption: My tool employs the AES algorithm with a 256-bit key, providing top-tier security that meets industry standards. This level of encryption is widely recognized as one of the most secure methods available, making it ideal for protecting sensitive information. 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. Easy-to-Use Interface 
 
 User -Friendly Console Application: Designed with simplicity in mind, my console application allows users of all technical backgrounds to encrypt and decrypt data effortlessly. Just input your text, and let the tool handle the rest! 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Random Initialization Vector (IV) 
 
   Enhanced Security: Each encryption operation generates a unique, random IV, ensuring that identical plaintexts produce different ciphertexts. This feature significantly enhances security by preventing attackers from identifying patterns in the encrypted data. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 4. Base64 Encoding 
 
 Convenient Data Handling: The encrypted output is encoded in Base64 format, making it easy to store and transmit over various platforms without data corruption. This feature ensures that your encrypted data is both secure and manageable. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. Cross-Platform Compatibility 
 
 C# Implementation: Built using C#, my tool can be easily integrated into various applications and systems, making it a versatile choice for developers looking to enhance their software's security features. 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 How It Works 
